@@ -1,0 +1,67 @@
+
+.navbar {
+  min-height: 65px;
+  margin-bottom: 35px;
+}
+
+.navbar-brand {
+  height: 65px;
+}
+
+.navbar-right{
+  margin-top: 8px;
+}
+
+.navbar-toggle{
+  margin-top: 15px;  
+}
+
+.jumbotron{
+  margin-top: 63px;
+}
+
+.navbar-default {
+  background-image: none;
+  background-color: #205a6a;
+  border-color: #205a6a;
+}
+
+.navbar-default .navbar-brand{
+  color: white;
+
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+  color: #31bdd5;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: white;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
+  color: #31bdd5;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
+  color: #31bdd5;
+  background-color: white;
+}
+
+.navbar-brand, .navbar-nav>li>a{
+  text-shadow: none;
+}
+
+.jumbotron{
+  background-color: #31bdd5;
+  color: white;
+}
+
+.btn-primary{
+  background-color: #205a6a;
+  background-image: none;
+  border: none;
+  color: white;
+}
+
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: white;
+}
